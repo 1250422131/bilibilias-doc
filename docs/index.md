@@ -18,8 +18,8 @@ hero:
       text: 官网
       link: https://api.misakamoe.com/app/
     - theme: alt
-      text: 开发文档
-      link: /user/introduction
+      text: 编译指南
+      link: /dev/compilation-guide
 
 # features:
 #   - title: Feature A
