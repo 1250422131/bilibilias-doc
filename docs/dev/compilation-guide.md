@@ -81,7 +81,7 @@ VzdAAAAZw3dyj5AAAFATCCBP0w
 
 ### 填写Action机密
 
-现在，我们要为我们的流水线填写机密变量，这个变量填写后只有你和仓库所有者自己看得见。
+现在，我们要为我们的流水线填写机密变量，这个变量填写后将不可见，你只能知道存在这个变量。
 
 1. 打开Fork仓库
 2. 切换到仓库的Setting
@@ -129,8 +129,8 @@ BILIBILIAS 已经完成流水线脚本，你可以在 **.github/workflows** 文�
 
 <AsImage src="/images/dev/compilation-guide/download_action_result.png"></AsImage>
 
-你可以点击旁边的下载按钮。
+你可以点击旁边的下载按钮i进行下载。
 
 如果你的设备不是非常非常老，可以直接下载`APK-alpha-arm64-v8a`，这是目前最主流的系统架构，也就是arm架构。
 
-如果你发现`APK-alpha-arm64-v8a`无法在你的设备打开或者安装运行，就尝试其他架构，但如果你不行这么麻烦，可直接下载`APK-alpha-universal`，这里有所有的架构。
+如果你发现`APK-alpha-arm64-v8a`无法在你的设备打开或者安装运行，就尝试其他架构，但如果你不想这么麻烦，可直接下载`APK-alpha-universal`，这里有所有的架构。
