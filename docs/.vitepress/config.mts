@@ -47,7 +47,7 @@ export default defineConfig({
       {
         text: '开发文档',
         items: [
-          { text: '编译指南', link: 'dev/compilation-guide' },
+          { text: '编译指南', link: '/dev/compilation-guide' },
         ]
       },
       {

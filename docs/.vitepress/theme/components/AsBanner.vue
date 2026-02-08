@@ -2,7 +2,7 @@
   <div 
     v-if="isVisible"
     class="top-banner fixed top-0 left-0 right-0 flex items-center justify-center px-12 box-border"
-    style="z-index: var(--vp-z-index-layout-top); height: var(--vp-layout-top-height);"
+    style="z-index: 30; height: var(--vp-layout-top-height);"
   >
     <a 
       href="https://api.misakamoe.com/app/" 
