@@ -15,7 +15,7 @@
       </svg>
       <span class="flex items-center gap-2 text-[13px] md:text-sm flex-wrap justify-center">
         <span class="font-semibold">注意：</span>
-        <span class="font-normal">该项目已暂停维护，详见 BILIBILIAS 官网</span>
+        <span class="font-normal">该项目已停止发布产物，详见 BILIBILIAS 官网</span>
       </span>
     </a>
     <div 
