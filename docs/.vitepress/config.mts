@@ -6,6 +6,7 @@ export default defineConfig({
   title: "BILIBILIAS-DOC",
   description: "BILIBILIAS的使用文档与开发文档。",
   lastUpdated: true,
+  ignoreDeadLinks: true,
   head: [
     ['link', { rel: "icon", href: "/favicon.ico" }]
   ],
@@ -48,6 +49,7 @@ export default defineConfig({
         text: '开发文档',
         items: [
           { text: '编译指南', link: '/dev/compilation-guide' },
+          { text: 'Speed Insights 快速开始', link: '/dev/speed-insights' },
         ]
       },
       {
